@@ -26,9 +26,11 @@ This is a personal portfolio website for Vaishnavi Nimbalkar, showcasing skills,
 3. Edit `portfolio.html`, `style.css`, or `script.js` to customize content or appearance.
 
 ## Live Demo
+
 You can deploy this portfolio using GitHub Pages or any static site hosting service.
 
 ## License
+
 This project is for personal and educational use.
 
 ---
